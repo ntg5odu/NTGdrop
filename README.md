@@ -1,4 +1,4 @@
-# Node.js slowDrop NTGfork Tool
+# Node.js slowDrop fork - NTGdrop Tool
 
 An XRPL airdrop tool built with JavaScript and Node.js.
 
