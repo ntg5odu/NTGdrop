@@ -31,6 +31,10 @@ Open a new terminal, navigate to the **/NTGDrop** folder, and run `npm install` 
 
 **WARNING**: If you modify this tool to share with other people, MAKE SURE TO DELETE YOUR FAMILY-SEED (PRIVATE KEYS) FROM **ALL** CONFIG.JSON FILES.  
 **If your family-seed is compromised, you may lose all funds in the respective wallet. ALWAYS KEEP YOUR SECRET SAFE!!!**
+
+*Wietse has a repository for changing secret-numbers to family-seed, check:( https://github.com/WietseWind/secret-numbers-to-family-seed ) if needed.
+
+
 - **issuer**: The issuing address of the token you are sending.
 - **currency**: The currency code of the token you are sending.
 - **testMode**: Boolean. Toggle between test/snapshot and airdrop mode with "true" or "false".
