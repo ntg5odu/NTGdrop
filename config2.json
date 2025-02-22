@@ -1,0 +1,18 @@
+{
+    "seed": "YOUR_FAMILY-SEED_HERE_(s...)",
+    "currency": "4E5467354F44553D000000000000000000000000",
+    "testMode": true,
+    "issuer": "rpLmG29H2QLyKaWdjwPFDwePgUAdtEea8p",
+    "airdropListFile": "../airdrop-list.json",
+    "sendingMemo": "NTg5ODU= TEST",
+    "airdropAmounts": [
+        {
+            "category": 1,
+            "amount": 0.00001
+        },
+        {
+            "category": 2,
+            "amount": 0.000001
+        }
+    ]
+}

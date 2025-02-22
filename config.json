@@ -1,0 +1,32 @@
+{
+    "seed": "YOUR_FAMILY-SEED_HERE_(s...)",
+    "testMode": true,
+    "currency": "4E5467354F44553D000000000000000000000000",
+    "issuer": "rpLmG29H2QLyKaWdjwPFDwePgUAdtEea8p",
+    "holdCurrency": "UGA",
+    "holdIssuer": "rBFJGmWj6YaabVCxfsjiCM8pfYXs8xFdeC",
+    "checkIssuer1": "rpLmG29H2QLyKaWdjwPFDwePgUAdtEea8p",
+    "ignoreWallets": [
+        "rKVVoAWU3kVZThTEL2HQ1JjjHKpbRcazkn",
+        "rM6TteB31vSpHDCt8xr41tuNdHj9pYKrxg",
+        "rfwrPxKJ7DRTSaRZgnhAViYzNEnq6u6N2H"
+    ],
+    "sendingMemo": "NTg5ODU= TEST $Uga Holderss",
+    "airdropAmounts": [
+        {
+            "min": 0.0001,
+            "max": 1000,
+            "amount": 0.00001
+        },
+        {
+            "min": 1001,
+            "max": 5000,
+            "amount": 0.000001
+        },
+        {
+            "min": 5001,
+            "max": 10000,
+            "amount": 0.0000001
+        }
+    ]
+}

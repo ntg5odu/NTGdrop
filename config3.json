@@ -1,0 +1,33 @@
+{
+    "seed": "YOUR_FAMILY-SEED_HERE_(s...)",
+    "testMode": false,
+    "currency": "03E9061BF931326516B3924AB3A152C8EE35B04D",
+    "issuer": "rM6TteB31vSpHDCt8xr41tuNdHj9pYKrxg",
+    "holdCurrency": "03E9061BF931326516B3924AB3A152C8EE35B04D",
+    "holdIssuer": "rM6TteB31vSpHDCt8xr41tuNdHj9pYKrxg",
+    "checkIssuer1": "rpLmG29H2QLyKaWdjwPFDwePgUAdtEea8p",
+    "ignoreWallets": [
+        "rKVVoAWU3kVZThTEL2HQ1JjjHKpbRcazkn",
+        "rM6TteB31vSpHDCt8xr41tuNdHj9pYKrxg",
+        "rfwrPxKJ7DRTSaRZgnhAViYzNEnq6u6N2H",
+        "rMN61wtobx63FgMkABqFpkvWmvYzCpgENB"
+    ],
+    "sendingMemo": "NTg5ODU= TEST",
+    "airdropAmounts": [
+        {
+            "min": 10.0001,
+            "max": 100,
+            "amount": 3
+        },
+        {
+            "min": 100.0001,
+            "max": 1000,
+            "amount": 2
+        },
+        {
+            "min": 1000.000001,
+            "max": 100000,
+            "amount": 1
+        }
+    ]
+}

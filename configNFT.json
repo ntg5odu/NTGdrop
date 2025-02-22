@@ -1,0 +1,42 @@
+{
+    "seed": "YOUR_FAMILY-SEED_HERE_(s...)",
+    "currency": "4E5467354F44553D000000000000000000000000",
+    "testMode": true,
+    "currencyIssuer": "rpLmG29H2QLyKaWdjwPFDwePgUAdtEea8p",
+    "nftIssuer": "rfwrPxKJ7DRTSaRZgnhAViYzNEnq6u6N2H",
+    "taxon": 589,
+    "sendingMemo": "NTg5ODU= TESTDROP - LIQUID Holders",
+    "listedAbove": 0,
+    "airdropAmounts": [
+        {
+            "min": 1,
+            "max": 6,
+            "amount": 0.000589
+        },
+        {
+            "min": 7,
+            "max": 8,
+            "amount": 0.000589
+        },
+        {
+            "min": 9,
+            "max": 10,
+            "amount": 0.0000589
+        },
+        {
+            "min": 11,
+            "max": 12,
+            "amount": 0.00000589
+        },
+        {
+            "min": 13,
+            "max": 17,
+            "amount": 0.00000589
+        }
+    ],
+    "ignoreWallets": [
+        "rKVVoAWU3kVZThTEL2HQ1JjjHKpbRcazkn",
+        "rM6TteB31vSpHDCt8xr41tuNdHj9pYKrxg",
+        ""
+    ]
+}

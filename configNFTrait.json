@@ -1,0 +1,26 @@
+{
+    "seed": "YOUR_FAMILY-SEED_HERE_(s...)",
+    "currency": "4E5467354F44553D000000000000000000000000",
+    "testMode": true,
+    "currencyIssuer": "rpLmG29H2QLyKaWdjwPFDwePgUAdtEea8p",
+    "nftIssuer": "rMN61wtobx63FgMkABqFpkvWmvYzCpgENB",
+    "taxon": 333,
+    "sendingMemo": "NTg5ODU= TEST",
+    "airdropAmounts": [
+        {
+            "trait_type": "ELEMENT",
+            "value": "AETHER",
+            "amount": 0.00333
+        },
+        {
+            "trait_type": "SHAPE",
+            "value": "TRIANGLE",
+            "amount": 0.000589
+        }
+    ],
+    "ignoreWallets": [
+        "rKVVoAWU3kVZThTEL2HQ1JjjHKpbRcazkn",
+        "rM6TteB31vSpHDCt8xr41tuNdHj9pYKrxg",
+        "rMN61wtobx63FgMkABqFpkvWmvYzCpgENB"
+    ]
+}
