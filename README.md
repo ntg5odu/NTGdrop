@@ -11,6 +11,7 @@ This tool has a test/snapshot mode, that when set to "true", will scan the holde
 **ALL CREDITS FOR THIS TOOL GO TO THE ORIGINAL CREATOR - CBOT**  
 cbot on GitHub: [Cbot-XRPL](https://github.com/Cbot-XRPL)  
 cbot on X: [Cbot_Xrpl](https://x.com/Cbot_Xrpl)
+[original tool](https://github.com/Cbot-XRPL/slowDrop)
 
 ---
 
